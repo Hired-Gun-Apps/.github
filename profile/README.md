@@ -5,7 +5,7 @@
 Find us:
 
 [![HGA](https://img.shields.io/badge/Hired_Gun_Apps-%23c74b1b.svg?style=for-the-badge)](https://elixirmentor.com/)
-[![Podcast](https://img.shields.io/badge/Big_App_Energy-%23ca5248.svg?style=for-the-badge&logo=PodcastIndex&logoColor=white)](https://hiredgunapps.com/podcast)
+[![Podcast](https://img.shields.io/badge/Podcast-%23ca5248.svg?style=for-the-badge&logo=PodcastIndex&logoColor=white)](https://hiredgunapps.com/podcast)
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCHFwIp7ZMXqk_FKH08f67pA?style=for-the-badge&logo=YouTube&label=YouTube&color=FF0000)](https://www.youtube.com/@bigappenergy)
 
 
