@@ -1,4 +1,4 @@
-<img align="center" src="https://hga-1.hiredgunapps.com/hga-banner.png"/>
+<img align="center" src="[https://hga-1.hiredgunapps.com/hga-banner.png](https://hga-1.sfo3.cdn.digitaloceanspaces.com/hga-share/HGA-Banner.png)"/>
 
 ### HIRED GUN APPS - A Custom Software & Design Company
 
